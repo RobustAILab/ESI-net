@@ -1,0 +1,6 @@
+# Reference versions; other recent versions of these packages are expected to work.
+torch==2.5.1
+numpy==1.26.4
+scipy==1.15.3
+scikit-learn==1.7.2
+tqdm==4.67.3

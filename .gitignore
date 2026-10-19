@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Outputs
+results/
+logs/
+*.log
+
+# Data and checkpoints: only the bundled example files are tracked
+datasets/*
+!datasets/handwritten_missing_0.5.mat
+checkpoints/*
+!checkpoints/hand.pth
